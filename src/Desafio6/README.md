@@ -23,6 +23,7 @@ Dentro de un ```while```  el cual asegura que el algoritmo siga llenando la matr
 | Arriba - Abajo        | Llena la matríz desde la siguiente fila hasta el final de la ultima columna |
 |Derecha - Izquierda| Llena la matríz desde la columna anterior a la final hasta el inicio de la ultima fila |
 |Abajo - Arriba| Llena la matríz desde la fila anterior a la final hasta el inicio de la primera columna |
+
 Acontinuación se presenta la estructura de como se establecieron los ```for``` para que la matriz siguiera un estilo espiral en valor incremental.
 ```
 while (filaInicio <= filaFinal || columInicio <= columFinal) {
