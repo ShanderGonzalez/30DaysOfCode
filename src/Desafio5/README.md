@@ -44,13 +44,9 @@ El código completo se encuentra en [ValidarContra.java](https://github.com/Shan
 Los resultados se muestran acontinuación:
 
 ![1](https://github.com/ShanderGonzalez/30DaysOfCode/assets/94009521/ba744404-40e6-4663-9441-832ce5ca0fb5)
-
 ![2](https://github.com/ShanderGonzalez/30DaysOfCode/assets/94009521/b96eebe6-29a5-4f23-9795-8936f41ccdeb)
-
 ![3](https://github.com/ShanderGonzalez/30DaysOfCode/assets/94009521/12c60a89-1e1e-4b0a-9c88-183ebf0e8a3b)
-
 ![5](https://github.com/ShanderGonzalez/30DaysOfCode/assets/94009521/c28ccf3d-251f-46fb-a733-a1e770ed30b9)
-
 ![4](https://github.com/ShanderGonzalez/30DaysOfCode/assets/94009521/ef045447-0e3d-4f26-9b95-34a5af59c320)
 
 
