@@ -14,7 +14,7 @@ public class ConversorUnidades {
 
     public static void main(String[] args) {
 
-        float cm, pulg, km, m, pies, millas;
+        float cm, pulg, km, millas;
 
         int menu = Integer.parseInt(JOptionPane.showInputDialog("""
                 MENÚ
