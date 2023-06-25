@@ -31,6 +31,7 @@ Se fijan dos variables, uno para límite inferior y otro para límite superior. 
     }
 ```
 Para ello, las condiciones establecidas forman parte de un ```for``` el cual itera en todo el límite fijado hasta encontrar el número mágico.
+
 Puedes encontrar el código completo en [NumeroMagico.java](https://github.com/ShanderGonzalez/30DaysOfCode-Panthers/blob/master/src/Desafio3/NumeroMagico.java "NumeroMagico.java")
 
 ## Resultados y Ejecución
