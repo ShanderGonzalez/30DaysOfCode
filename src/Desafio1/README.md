@@ -18,12 +18,12 @@ El objetivo es escribir un programa que implemente este algoritmo y verifique la
 ## Solución
 Se crea un método el cual permite que el dato ingresado sea solo número por medio de una expresion regular y el metodo ```.matches()```. Adicional a esto, se procedió a establecer el método **validarCredito** el cual aplica la lógica del algoritmo de Luhn. Este código sigue las siguientes condiciones:
 
->1. En número ingresado, se recorrerá desde derecha a izquierda para realizar la operacion de Luhn.
-2. Si el índice de dicho número es par, se aplica la operacion multiplicando por 2.
-3. Si el índice es impar, el número permanece igual.
-4. Si el número obtenido es mayor o igual a 10, este suma sus dos dígitos.
-5. Luego se suman todos sus dígitos.
-6. Si el resultado de la suma dio un número divisible para 10 con residuo 0 entonces se dice que es una tarjeta de crédito válido.
+> 1. En número ingresado, se recorrerá desde derecha a izquierda para realizar la operacion de Luhn.
+> 2. Si el índice de dicho número es par, se aplica la operacion multiplicando por 2.
+> 3. Si el índice es impar, el número permanece igual.
+> 4. Si el número obtenido es mayor o igual a 10, este suma sus dos dígitos.
+> 5. Luego se suman todos sus dígitos.
+> 6. Si el resultado de la suma dio un número divisible para 10 con residuo 0 entonces se dice que es una tarjeta de crédito válido.
 
 Acontinuación se presenta el método en el que se implementó el algoritmo de Luhn para llevar a cabo dicha solucion:
 ```
