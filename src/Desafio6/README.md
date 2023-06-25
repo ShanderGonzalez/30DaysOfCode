@@ -10,10 +10,10 @@ desde 1 y siguiendo un patrón en sentido horario.
 - [Solución](#solución)
 - [Resultados y Ejecución](#resultados-y-ejecución)
 
-##Contexto
+## Contexto
 En este reto, se requiere escribir un programa que genere una matriz de tamaño n x n, donde n es un número entero positivo dado por el usuario. La matriz debe contener una espiral ascendente de números, comenzando desde 1 y siguiendo un patrón en sentido horario.
 
-##Solución
+## Solución
 Se crea una matriz vacía de tamaño **nxn** en el que se establece una matríz cuadrada. Se crea una variable **acumulador** el cual va aumentando en uno cada que se vaya cumpliendo su ciclo en el ```for```.  Además se establecen las variables **filaInicio, filaFinal, columInicio, columFinal** que definiran las filas y columnas de la matriz espiral.
 Dentro de un ```while```  el cual asegura que el algoritmo siga llenando la matriz en espiral mientras haya filas o columnas por recorrerse, además se crea 4 bucles```for```, cada uno de los ```for``` cumple con la siguiente lógica:
 
