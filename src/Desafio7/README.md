@@ -27,7 +27,7 @@ Adicional se muestra una tabla respecto a las expresiones regulares usadas para 
 | Sea un caracter alfanumérico y punto | [\w.] |
 | Contenga un caracter específico   | @ |
 | Contenga letras de la a hasta la z   | [a-z] |
-| Obligado que exista un punto | \.  |
+| Obligado que exista un punto | \\.  |
 
 Respecto a lo anterior, la función respecto a la expresion regular se presenta de la siguiente manera:
 ```
