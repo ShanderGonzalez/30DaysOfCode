@@ -6,3 +6,4 @@
 4. [Límites](https://github.com/ShanderGonzalez/30DaysOfCode/tree/master/src/Desafio4 "Límites")
 5. [Validación de Contraseña](https://github.com/ShanderGonzalez/30DaysOfCode/tree/master/src/Desafio5 "Validación de Contraseña")
 6. [Matríces](https://github.com/ShanderGonzalez/30DaysOfCode/tree/master/src/Desafio6 "Matrices")
+7. [Validación de Correo](https://github.com/ShanderGonzalez/30DaysOfCode-Panthers/tree/master/src/Desafio7 "Validación de correo")
