@@ -7,3 +7,4 @@
 5. [Validación de Contraseña](https://github.com/ShanderGonzalez/30DaysOfCode/tree/master/src/Desafio5 "Validación de Contraseña")
 6. [Matríces](https://github.com/ShanderGonzalez/30DaysOfCode/tree/master/src/Desafio6 "Matrices")
 7. [Validación de Correo](https://github.com/ShanderGonzalez/30DaysOfCode-Panthers/tree/master/src/Desafio7 "Validación de correo")
+8. [Contar palabra de una cadena](https://github.com/ShanderGonzalez/30DaysOfCode-Panthers/tree/master/src/Desafio8 "Contar palabra de una cadena")
