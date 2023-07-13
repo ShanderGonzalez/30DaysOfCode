@@ -3,8 +3,11 @@ Hemos podido interceptar varios textos,entre ellos una localización, pero las l
 Deberás generar un código que genere todas las posibles palabras de las letras dadas: 
 
 AITLAI 
+
 AMOR 
+
 NOITCAAV
+
 - Usar todas las letras en cada combinación
 - Generar todas las posibles palabras aunque estas no siguan las reglas de la gramática
 - El ingreso puede ser por consola o con los datos quemados en el código
