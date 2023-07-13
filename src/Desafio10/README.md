@@ -1,4 +1,4 @@
-# Reto 9: Laberinto
+# Reto 10: Combinar letras
 Hemos podido interceptar varios textos,entre ellos una localización, pero las letras de algunas palabras están mezcladas. 
 Deberás generar un código que genere todas las posibles palabras de las letras dadas: 
 
