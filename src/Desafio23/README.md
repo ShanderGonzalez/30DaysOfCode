@@ -22,5 +22,5 @@ node shortwalk.js
 
 Los resultados se muestran acontinuación:
 ```
-El camino más corto desde Torre Eiffel hasta Arco de Triunfo es: ,Notre Dame -> Arco de Triunfo
+El camino más corto desde Torre Eiffel hasta Arco de Triunfo es: Notre Dame -> Arco de Triunfo
 ```
