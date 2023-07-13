@@ -23,4 +23,5 @@ node createPlush.js
 ```
 
 Los resultados se muestran acontinuación:
+
 ![1](https://github.com/ShanderGonzalez/30DaysOfCode-Panthers/assets/94009521/0ff0cc05-1793-45ff-bee7-05672b7c3e22)
