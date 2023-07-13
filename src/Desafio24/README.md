@@ -22,33 +22,57 @@ node hanged.js
 Los resultados se muestran acontinuación:
 ```
 Ingresar una letra: a
+
        +---+
        |   |
-       O   |
+           |
            |
            |
            |
     =========
-_ _ _ _ _
+_ _ _ _ a
 Ingresar una letra: o
+
        +---+
        |   |
-       O   |
+           |
            |
            |
            |
     =========
-_ _ _ _ o
-Ingresar una letra: c
-       +---+
-       |   |
-       O   |
-           |
-           |
-           |
-    =========
-c e r _ o
+o _ _ _ a
 Ingresar una letra: b
+
+       +---+
+       |   |
+       O   |
+           |
+           |
+           |
+    =========
+o _ _ _ a
+Ingresar una letra: v
+
+       +---+ 
+       |   | 
+       O   | 
+           | 
+           | 
+           | 
+    =========
+o v _ _ a    
+Ingresar una letra: e
+
+       +---+
+       |   |
+       O   |
+           |
+           |
+           |
+    =========
+o v e _ a
+Ingresar una letra: t
+
        +---+
        |   |
        O   |
@@ -56,6 +80,36 @@ Ingresar una letra: b
            |
            |
     =========
-c e r d o
+o v e _ a
+Ingresar una letra: c
+
+       +---+
+       |   |
+       O   |
+      /|   |
+           |
+           |
+    =========
+o v e _ a
+Ingresar una letra: p
+
+       +---+
+       |   |
+       O   |
+      /|\  |
+           |
+           |
+    =========
+o v e _ a
+Ingresar una letra: j
+
+       +---+
+       |   |
+       O   |
+      /|\  |
+           |
+           |
+    =========
+o v e j a
 ¡Felicidades! Adivinaste la palabra.
 ```
