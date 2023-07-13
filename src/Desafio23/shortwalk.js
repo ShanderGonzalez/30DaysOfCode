@@ -50,7 +50,7 @@ const destino = "Arco de Triunfo";
 const camino = dijkstra(grafo, origen, destino);
 
 if (camino) {
-  console.log(`El camino más corto desde ${origen} hasta ${destino} es: ${camino.join(' -> ')}`);
+  console.log(`El camino más corto desde ${origen} hasta ${destino} es: ${camino.join(' -> ').replace(',','')}`);
 } else {
   console.log(`No existe un camino desde ${origen} hasta ${destino}`);
 }
