@@ -23,38 +23,38 @@ Los resultados se muestran acontinuación:
 ```
 Ingresar una letra: a
        +---+
-       |     |
+       |   |
        O   |
-             |
-             |
-             |
+           |
+           |
+           |
     =========
 _ _ _ _ _
 Ingresar una letra: o
        +---+
-       |     |
+       |   |
        O   |
-             |
-             |
-             |
+           |
+           |
+           |
     =========
 _ _ _ _ o
 Ingresar una letra: c
        +---+
-       |     |
+       |   |
        O   |
-             |
-             |
-             |
+           |
+           |
+           |
     =========
 c e r _ o
 Ingresar una letra: b
        +---+
-       |     |
+       |   |
        O   |
-        |    |
-             |
-             |
+       |   |
+           |
+           |
     =========
 c e r d o
 ¡Felicidades! Adivinaste la palabra.
