@@ -9,9 +9,11 @@ Reglas:
 Nota: en una palabra sólo se escribe en mayúsculas el primer carácter. Ejemplo 12abc cuando se escribe en mayúsculas sigue siendo 12abc.
 
 Input: chris alan
+
 Ouput: Chris Alan
 
 Input: 1 w 2 r 3g
+
 Output: 1 W 2 R 3g
 
 #### Tabla de Contenido
